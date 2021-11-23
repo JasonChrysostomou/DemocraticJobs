@@ -1,7 +1,5 @@
 # DemocraticJobs
-A jobs board for worker cooperatives
-
-Democratic Jobs is a jobs board that displays opportunities at democratically run businesses, called worker cooperatives.
+A jobs board for opportunities at democratically run businesses, called worker cooperatives.
 
 URL: [DemocraticJobs.coop](https://www.DemocraticJobs.coop/)
 Twitter: [@DemocraticJobs](https://twitter.com/democraticjobs)
