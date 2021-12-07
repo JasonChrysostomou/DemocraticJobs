@@ -20,5 +20,8 @@ A successful pilot site was launched in 2019, which had over 100 jobs posted and
 ## Contributing
 If you are interested in getting involved, please see the Contributing File or [send an email](https://mailhide.io/e/y1gFFwQJ) to Jason  to introduce yourself.
 
+## Mockup
+![GitHub Logo](/images/democratic-jobs-mockup-home.png)
+
 ## License
 DemocraticJobs is licensed under the MIT License.
