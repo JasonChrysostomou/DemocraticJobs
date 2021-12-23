@@ -1,5 +1,5 @@
 # DemocraticJobs
-A jobs board that lists opportunities at democratically run businesses, called worker cooperatives.
+A jobs aggregator that lists opportunities at democratically run businesses, called worker cooperatives.
 
 URL: [DemocraticJobs.coop](https://www.DemocraticJobs.coop/)
 Twitter: [@DemocraticJobs](https://twitter.com/democraticjobs)
@@ -13,7 +13,7 @@ The goals of the site are to:
 3. Promote worker cooperatives and the democratic economy.
 
 ## Description
-A successful pilot site was launched in 2019, which had over 100 jobs posted and 14,000 visitors. However, jobs were required to be manually posted. The vision is to build the next version of the site as an aggregator which pulls jobs from the career pages of worker cooperative websites automatically into the jobs board using a standardised data format, see [Job Posting Schema](https://schema.org/JobPosting).
+A successful pilot site was launched in 2019, which had over 100 jobs posted and 14,000 visitors. However, jobs were required to be manually posted. The vision is to build the next version of the site as an aggregator which pulls jobs from the career pages of worker cooperative websites automatically into the jobs site using a standardised data format, see [Job Posting Schema](https://schema.org/JobPosting).
 
 ![GitHub Logo](/images/democratic-jobs-concept.png)
 
